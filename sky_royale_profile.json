@@ -1,0 +1,8 @@
+{
+  "name": "Player",
+  "color_idx": 7,
+  "primary": "m4a1",
+  "secondary": "deagle",
+  "players": 8,
+  "difficulty": "Easy"
+}
